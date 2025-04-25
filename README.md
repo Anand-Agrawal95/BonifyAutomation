@@ -38,6 +38,9 @@ BonifyAutomation/
 ├── pom.xml
 └── README.md
 
+**Cloning the Repo**:
+1. Clone the repo: https://github.com/Anand-Agrawal95/BonifyAutomation
+
 🧪 Running Tests
 
 Tests can be executed using TestNG via the testng.xml file:
